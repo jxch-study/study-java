@@ -18,7 +18,7 @@ import java.util.function.Function;
  * @since 8.0
  */
 @Slf4j
-public class SOptional {
+public class OptionalTest {
 
     @Test
     public void ofO() {
